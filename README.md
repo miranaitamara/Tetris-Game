@@ -2,7 +2,7 @@
 ## Tetris-Game 
 
 ## Preview
-(https://ibb.co/qWNgXSW)
+![image](https://ibb.co/qWNgXSW)
 ![Preview](https://ibb.co/qWNgXSW)
 
 
