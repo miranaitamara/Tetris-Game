@@ -1,6 +1,11 @@
 
 ## Tetris-Game 
 
+## Preview
+
+![Preview](https://ibb.co/qWNgXSW)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
